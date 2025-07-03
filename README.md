@@ -12,4 +12,4 @@ This is a basic static front-page clone of Amazon's homepage, built using only H
 
 - Header with logo, search bar, and navigation links
 - Simple hero section and product categories layout
-- Basic footer layout
+
